@@ -1,0 +1,15 @@
+{
+    "vkapi": "",
+    "callerapi": "",
+    "leakosint" : "",
+    "userbox" : "",
+    "leakcheck": "",
+    "token" : "",
+    "database" : "",
+    
+    "customize" : {
+        "color" : "blue_to_cyan",
+        "result" : "yellow_to_red",
+        "colorate" : "vertical"
+    }
+}
